@@ -6,6 +6,10 @@ Default | When error
 :-------------------------:|:-------------------------:
 ![normal](https://user-images.githubusercontent.com/29127047/90949158-47c84a00-e470-11ea-9a18-5dc748075f2c.png) | ![error](https://user-images.githubusercontent.com/29127047/90949160-48f97700-e470-11ea-86d2-d1280c4eed8f.png)
 
+### Installation
+```swift
+pod "DummyTextField"
+```
 
 ### Initialize
 ```swift
