@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "DummyTextField"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "A new custom textfield design with title on the top."
   spec.description  = <<-DESC
                     DummyTextField is a new custom textfield design with title on the top.
