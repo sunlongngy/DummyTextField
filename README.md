@@ -21,7 +21,7 @@ let dummyTextField: DummyTextField = {
 
 ### Error message
 ```swift
-dummyTextField.errorMessage = "Please fill in the blank"
+dummyTextField.errorMessage = "Please fill username"
 ```
 
 ### Reset error
